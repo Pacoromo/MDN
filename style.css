@@ -118,7 +118,6 @@ a:focus {
 
 a:hover {
     text-decoration: none;
-    background-clip: padding-box;
     background-color: rgb(253, 219, 219);
 }
 
