@@ -46,16 +46,16 @@
  
   @font-face {
     font-family: 'PT serif';
-    src: url('fonts/ptserif-regular-webfont.woff2') format('woff2'),
-         url('fonts/ptserif-regular-webfont.woff') format('woff');
+    src: url('ptserif-regular-webfont.woff2') format('woff2'),
+         url('ptserif-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto';
-    src: url('fonts/roboto-regular-webfont.woff2') format('woff2'),
-         url('fonts/ptserif-regular-webfont.woff') format('woff');
+    src: url('roboto-regular-webfont.woff2') format('woff2'),
+         url('ptserif-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
