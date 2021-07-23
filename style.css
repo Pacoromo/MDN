@@ -140,6 +140,10 @@ ol {
 
 /* Nav Menu */
 
+nav ul {
+  padding: 0;
+}
+
 nav ul li{
   list-style-type: none;
   margin-bottom: 25px;
